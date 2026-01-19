@@ -3,8 +3,6 @@
 <br>
 🚀 I want to collaborate on **Creative projects** that push the limits of modern web tech.
 <br>
-🐍 I am currently learning Python. Next up: building AI-powered apps and then figuring out why everyone is still talking about Blockchain. ⛓️
-<br>
 👀 Fun fact about me: I can sleep with my eyes open. Don't worry, my commit history is fully awake.
 
 # 💻 Tech Stack:
